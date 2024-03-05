@@ -1,0 +1,1 @@
+Project in HTML, CSS and Javascript consisting of a website for adopting cats, including the ability to add cats, the ability to filter cats and a small game in which you need to guide a cat through a randomly selected maze to get all the sushi. The website can be viewed at https://bagsylina.github.io
